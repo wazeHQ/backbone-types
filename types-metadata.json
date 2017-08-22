@@ -1,0 +1,23 @@
+{
+    "authors": "Boris Yankov <https://github.com/borisyankov/>, Natan Vivo <https://github.com/nvivo/>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [],
+    "moduleDependencies": [
+        "underscore"
+    ],
+    "libraryMajorVersion": "1",
+    "libraryMinorVersion": "0",
+    "libraryName": "Backbone 1.0.0",
+    "typingsPackageName": "backbone",
+    "projectName": "http://backbonejs.org/",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "kind": "UMD",
+    "globals": [
+        "Backbone"
+    ],
+    "declaredModules": [],
+    "files": [
+        "index.d.ts"
+    ],
+    "contentHash": "ddb7d7aaf6cbed687e321e9e64dae7605846f6d4c19854c18c0ab8d3d91308c4"
+}
